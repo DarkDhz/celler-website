@@ -944,4 +944,8 @@ body {
     text-align: center;
     color: white;
 }
+
+a:hover {
+    color: white;
+}
  
