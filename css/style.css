@@ -644,8 +644,8 @@ body {
 /*--------------------------------------------------------------------- footer ---------------------------------------------------------------------*/
  .footer {
      background: #d8b00f;
-     padding-top:90px;
-     margin-top: 90px;
+     padding-top: 2rem;
+     margin-top: 2rem;
 }
  .footer h2 {
      color: #000;
@@ -770,7 +770,7 @@ body {
 }
  .copyright {
     background: #fff;
-     margin-top: 90px;
+    margin-top: 1rem;
 }
  .copyright p {
     color: #000;
